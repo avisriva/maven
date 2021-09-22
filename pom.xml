@@ -76,6 +76,8 @@ under the License.
     <distributionName>Apache Maven</distributionName>
     <maven.site.path>ref/4-LATEST</maven.site.path>
     <project.build.outputTimestamp>2021-04-05T08:12:18Z</project.build.outputTimestamp>
+     <sonar.organization>avisriva</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <modules>
